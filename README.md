@@ -2,7 +2,7 @@
 apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/fathurrohmaan/vip/main/premi.sh && chmod +x premi.sh && ./premi.sh
 apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/fathurrohmaan/vip/main/premi.sh && chmod +x premi.sh && ./premi.sh
 
-PERINTAH UPDATE
+# PERINTAH UPDATE
 wget https://raw.githubusercontent.com/fathurrohmaan/vip/main/update.sh && chmod +x update.sh && ./update.sh
 TESTED ON OS
 UBUNTU 20.04.05
@@ -22,7 +22,7 @@ Auto deler expired
 
 User Details Akun
 
-PORT INFO
+# PORT INFO
 - TROJAN WS 443
 - TROJAN GRPC 443
 - SHADOWSOCKS WS 443
