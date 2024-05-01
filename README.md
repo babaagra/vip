@@ -4,10 +4,10 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 
 # PERINTAH UPDATE
 wget https://raw.githubusercontent.com/fathurrohmaan/vip/main/update.sh && chmod +x update.sh && ./update.sh
-TESTED ON OS
+# TESTED ON OS
 UBUNTU 20.04.05
 DEBIAN 10
-FITUR TAMBAHAN
+# FITUR TAMBAHAN
 Tambah Swap 1GiB
 
 Pemasangan yang dinamis
@@ -37,7 +37,7 @@ User Details Akun
 - SSH NON TLS 8880
 - OVPN SSL/TCP 1194
 - SLOWDNS 5300
-SETTING CLOUDFLARE
+# SETTING CLOUDFLARE
 - SSL/TLS : FULL
 - SSL/TLS Recommender : OFF
 - GRPC : ON
